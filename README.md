@@ -1,4 +1,5 @@
 # Kidney-Disease-Classification-MLflow-DVC
+The Kidney-Disease-Classification project aims to develop a binary classification model to distinguish between normal kidneys and kidneys with tumors using image data. Convolutional Neural Networks (CNN) are employed to analyze medical images for the classification task. MLflow is integrated for tracking experiments and model performance, while DVC (Data Version Control) manages dataset versioning to ensure reproducibility and scalability.
 
 
 ## Workflows
